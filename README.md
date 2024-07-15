@@ -10,13 +10,13 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 - Tools : Python, Tensorflow, UiPath Studio, Flask, SQLite, Web Development (HTML,CSS,Javascript)
 - Output : [Virtual Assistant Kiryubot](http://valaptop.labirariset.com).
 
-# Certification Validation
+# Certification Validation with Tesseract OCR
 
 - This project use UiPath Studio with the help of OCR packages with Python which is one of the computer vision method to gather the text data. This project was also get helped with Cynthia Natalie in creating a Levenstein Distance Algorithm in UiPath Studio to Matching the text data in Certificate to prevent error of words. The Estimate of automation in each Student Account is 15 seconds depends of how many uploaded student certificate.
 - Tools : UiPath Studio, UiPath cloud Orchestrator, Microsoft Excel, Microsoft SQL Server, Python, Web Development (UiPath Apps & ASP.NET)
 - Output : [Certificate Valid Data Account](https://github.com/stevenkiryu/Portfolio-Steven-Tjayadi/assets/57402512/7a7d79b8-7420-480a-bb14-3b94a786ed84)
 
-# Web Scrapping - SINTA Dosen & Kemendikbud Untar
+# SINTA Dosen & Kemendikbud Untar Web Scrapping (Data Analysis) using Tesseract OCR
 
 - This project use UiPath Studio with using the selector method for web Scraping in UiPath. This method also use OCR (Optical Character Recognition) with Tesseract OCR from Python Language.
   This review get 2200 data of the Accuracy 80 % of Untar Dosen include the different subject like (Economics, IT, Law, etc).
@@ -32,14 +32,13 @@ Greetings! My name is Steven Tjayadi, and I'm excited to share my skill of devel
 
   
 # Other Project 
-
+- Machine Learning (Python)                       - Batik Image Classification with KNN (Computer Vision)
+- Machine Learning (Python)                       - Clustering the News with K-Means Natural Language Processing 
 - Power Automate - Approval Purchase Order Automation from Dynamic 365 Finance & Operations 
 - Dynamic 365 Finance & Operations (X++ & SQL) - Fixing Manufacturing Allocation (Metindo)
 - Dynamic 365 Finance & Operations (X++ & SQL) - Sales Contract Report Versioning (Citatah)
 - Microsoft AX2009 (X++ & SQL)                 - eShop Functionality Extension (SIKA)
 - Dynamic 365 Finance & Operations Infrastructure - Renew the SSH Expired Certificate for accessing Dynamic 365 finance & Operations
-- Machine Learning (Python)                       - Batik Image Classification
-- Machine Learning (Python)                       - Clustering the News  
 - SQL (Oracle)                                    - Hotel with SQL Oracle APEX
 
 # Certifications 
